@@ -1,0 +1,324 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="99594d1a-d7db-4474-864b-69ece3811abf" name="Default Changelist" comment="OneProject">
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/AlgorithmCheck/OneToEight/OddSum.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/AlgorithmCheck/OneToEight/ShoppingMall.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/AlgorithmCheck/OneToEight/SplitNumber.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/AlgorithmCheck/OneToEleven/ArraySum.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/AlgorithmCheck/OneToEleven/PiecewiseFun.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/AlgorithmCheck/OneToEleven/Series.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/AlgorithmCheck/OneToFifteen/ReadBook.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/AlgorithmCheck/OneToFifteen/SchoolReport.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/AlgorithmCheck/OneToFifteen/VerifyPassword.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/AlgorithmCheck/OneToFive/MoveBricks.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/AlgorithmCheck/OneToFive/Number.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/AlgorithmCheck/OneToFive/StringInversion.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/AlgorithmCheck/OneToFour/DigitalSwitching.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/AlgorithmCheck/OneToFour/FormulaSummation.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/AlgorithmCheck/OneToFour/Sum.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/AlgorithmCheck/OneToFourteen/CountSum.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/AlgorithmCheck/OneToFourteen/LeapYear.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/AlgorithmCheck/OneToFourteen/StudentPerformance.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/AlgorithmCheck/OneToNine/CustomFunction.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/AlgorithmCheck/OneToNine/RemoveSpaces.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/AlgorithmCheck/OneToNine/Temperature.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/AlgorithmCheck/OneToOne/BMI.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/AlgorithmCheck/OneToOne/MaxAndMin.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/AlgorithmCheck/OneToOne/Palindrome.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/AlgorithmCheck/OneToSeven/Negative.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/AlgorithmCheck/OneToSeven/Statistics.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/AlgorithmCheck/OneToSeven/StrLong.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/AlgorithmCheck/OneToSix/EvenSum.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/AlgorithmCheck/OneToSix/FunStr.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/AlgorithmCheck/OneToSix/Sum.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/AlgorithmCheck/OneToTen/Circular.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/AlgorithmCheck/OneToTen/ExplodeChar.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/AlgorithmCheck/OneToTen/NarcissisticNumber.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/AlgorithmCheck/OneToThirteen/AgeProblem.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/AlgorithmCheck/OneToThirteen/DeleteNums.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/AlgorithmCheck/OneToThirteen/Summation.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/AlgorithmCheck/OneToThree/Recursion.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/AlgorithmCheck/OneToThree/Sort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/AlgorithmCheck/OneToThree/SumSquares.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/AlgorithmCheck/OneToTwelve/MultiplicationTable.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/AlgorithmCheck/OneToTwelve/RemoveElement.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/AlgorithmCheck/OneToTwelve/ReverseOrder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/AlgorithmCheck/OneToTwo/Factorial.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/AlgorithmCheck/OneToTwo/NumberSystemConversion.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/AlgorithmCheck/OneToTwo/PrimeNumber.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OneToEight/OddSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OneToEight/ShoppingMall.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OneToEight/SplitNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OneToEleven/ArraySum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OneToEleven/PiecewiseFun.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OneToEleven/Series.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OneToFifteen/ReadBook.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OneToFifteen/SchoolReport.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OneToFifteen/VerifyPassword.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OneToFive/MoveBricks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OneToFive/Number.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OneToFive/StringInversion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OneToFour/DigitalSwitching.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OneToFour/FormulaSummation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OneToFour/Sum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OneToFourteen/CountSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OneToFourteen/LeapYear.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OneToFourteen/StudentPerformance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OneToNine/CustomFunction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OneToNine/RemoveSpaces.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OneToNine/Temperature.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OneToOne/BMI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OneToOne/MaxAndMin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OneToOne/Palindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OneToSeven/Negative.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OneToSeven/Statistics.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OneToSeven/StrLong.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OneToSix/EvenSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OneToSix/FunStr.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OneToSix/Sum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OneToTen/Circular.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OneToTen/ExplodeChar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OneToTen/NarcissisticNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OneToThirteen/AgeProblem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OneToThirteen/DeleteNums.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OneToThirteen/Summation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OneToThree/Recursion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OneToThree/Sort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OneToThree/SumSquares.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OneToTwelve/MultiplicationTable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OneToTwelve/RemoveElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OneToTwelve/ReverseOrder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OneToTwo/Factorial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OneToTwo/NumberSystemConversion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OneToTwo/PrimeNumber.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="FxmlFile" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2E0iKVdUk1jiMH2RE30OFKX4FVI" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="SONARLINT_PRECOMMIT_ANALYSIS" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+  </component>
+  <component name="RunManager" selected="Application.Series">
+    <configuration name="CountSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OneToFourteen.CountSum" />
+      <module name="AlgorithmCheck" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="OneToFourteen.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReadBook" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OneToFifteen.ReadBook" />
+      <module name="AlgorithmCheck" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="OneToFifteen.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SchoolReport" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OneToFifteen.SchoolReport" />
+      <module name="AlgorithmCheck" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="OneToFifteen.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Series" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OneToEleven.Series" />
+      <module name="AlgorithmCheck" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="OneToEleven.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VerifyPassword" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OneToFifteen.VerifyPassword" />
+      <module name="AlgorithmCheck" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="OneToFifteen.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Series" />
+        <item itemvalue="Application.VerifyPassword" />
+        <item itemvalue="Application.SchoolReport" />
+        <item itemvalue="Application.ReadBook" />
+        <item itemvalue="Application.CountSum" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="99594d1a-d7db-4474-864b-69ece3811abf" name="Default Changelist" comment="" />
+      <created>1661738838902</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1661738838902</updated>
+      <workItem from="1661738840169" duration="13247000" />
+      <workItem from="1661755226479" duration="11148000" />
+      <workItem from="1661773760943" duration="5631000" />
+      <workItem from="1661821040768" duration="30000" />
+      <workItem from="1661822197950" duration="513000" />
+      <workItem from="1661826733756" duration="1493000" />
+      <workItem from="1661829442912" duration="1961000" />
+      <workItem from="1661831428398" duration="3000" />
+      <workItem from="1661861313315" duration="7694000" />
+      <workItem from="1661869584257" duration="92000" />
+      <workItem from="1661869819456" duration="769000" />
+      <workItem from="1661906556173" duration="1154000" />
+      <workItem from="1661909682121" duration="12138000" />
+      <workItem from="1661959478390" duration="919000" />
+      <workItem from="1661995041907" duration="10298000" />
+      <workItem from="1662022083767" duration="284000" />
+      <workItem from="1662042046783" duration="11327000" />
+      <workItem from="1662076918033" duration="4133000" />
+    </task>
+    <task id="LOCAL-00001" summary="OneProject">
+      <created>1662081093626</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1662081093626</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="OneProject" />
+    <option name="LAST_COMMIT_MESSAGE" value="OneProject" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="418" y="132" key="FileChooserDialogImpl" timestamp="1662080429492">
+      <screen x="0" y="0" width="1280" height="752" />
+    </state>
+    <state x="418" y="132" key="FileChooserDialogImpl/0.0.1280.752@0.0.1280.752" timestamp="1662080429492" />
+    <state x="481" y="275" key="Github.ShareDialog" timestamp="1662081150212">
+      <screen x="0" y="0" width="1280" height="752" />
+    </state>
+    <state x="481" y="275" key="Github.ShareDialog/0.0.1280.752@0.0.1280.752" timestamp="1662081150212" />
+    <state width="1240" height="209" key="GridCell.Tab.0.bottom" timestamp="1662080558078">
+      <screen x="0" y="0" width="1280" height="752" />
+    </state>
+    <state width="1240" height="209" key="GridCell.Tab.0.bottom/0.0.1280.752@0.0.1280.752" timestamp="1662080558078" />
+    <state width="1240" height="143" key="GridCell.Tab.0.bottom/0.0.1280.800@0.0.1280.800" timestamp="1661776018905" />
+    <state width="1240" height="209" key="GridCell.Tab.0.center" timestamp="1662080558078">
+      <screen x="0" y="0" width="1280" height="752" />
+    </state>
+    <state width="1240" height="209" key="GridCell.Tab.0.center/0.0.1280.752@0.0.1280.752" timestamp="1662080558078" />
+    <state width="1240" height="143" key="GridCell.Tab.0.center/0.0.1280.800@0.0.1280.800" timestamp="1661776018905" />
+    <state width="1240" height="209" key="GridCell.Tab.0.left" timestamp="1662080558078">
+      <screen x="0" y="0" width="1280" height="752" />
+    </state>
+    <state width="1240" height="209" key="GridCell.Tab.0.left/0.0.1280.752@0.0.1280.752" timestamp="1662080558078" />
+    <state width="1240" height="143" key="GridCell.Tab.0.left/0.0.1280.800@0.0.1280.800" timestamp="1661776018905" />
+    <state width="1240" height="209" key="GridCell.Tab.0.right" timestamp="1662080558078">
+      <screen x="0" y="0" width="1280" height="752" />
+    </state>
+    <state width="1240" height="209" key="GridCell.Tab.0.right/0.0.1280.752@0.0.1280.752" timestamp="1662080558078" />
+    <state width="1240" height="143" key="GridCell.Tab.0.right/0.0.1280.800@0.0.1280.800" timestamp="1661776018905" />
+    <state width="1240" height="208" key="GridCell.Tab.1.bottom" timestamp="1662053428752">
+      <screen x="0" y="0" width="1280" height="752" />
+    </state>
+    <state width="1240" height="208" key="GridCell.Tab.1.bottom/0.0.1280.752@0.0.1280.752" timestamp="1662053428752" />
+    <state width="1240" height="208" key="GridCell.Tab.1.center" timestamp="1662053428752">
+      <screen x="0" y="0" width="1280" height="752" />
+    </state>
+    <state width="1240" height="208" key="GridCell.Tab.1.center/0.0.1280.752@0.0.1280.752" timestamp="1662053428752" />
+    <state width="1240" height="208" key="GridCell.Tab.1.left" timestamp="1662053428752">
+      <screen x="0" y="0" width="1280" height="752" />
+    </state>
+    <state width="1240" height="208" key="GridCell.Tab.1.left/0.0.1280.752@0.0.1280.752" timestamp="1662053428752" />
+    <state width="1240" height="208" key="GridCell.Tab.1.right" timestamp="1662053428752">
+      <screen x="0" y="0" width="1280" height="752" />
+    </state>
+    <state width="1240" height="208" key="GridCell.Tab.1.right/0.0.1280.752@0.0.1280.752" timestamp="1662053428752" />
+    <state x="172" y="22" key="SettingsEditor" timestamp="1662080361907">
+      <screen x="0" y="0" width="1280" height="752" />
+    </state>
+    <state x="172" y="22" key="SettingsEditor/0.0.1280.752@0.0.1280.752" timestamp="1662080361907" />
+    <state x="93" y="93" width="1093" height="613" key="dock-window-1" timestamp="1661761231443">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="93" y="93" width="1093" height="613" key="dock-window-1/0.0.1280.800@0.0.1280.800" timestamp="1661761231443" />
+    <state x="299" y="170" key="run.anything.popup" timestamp="1661741740175">
+      <screen x="0" y="0" width="1280" height="752" />
+    </state>
+    <state x="299" y="170" key="run.anything.popup/0.0.1280.752@0.0.1280.752" timestamp="1661741740175" />
+    <state x="306" y="118" width="672" height="638" key="search.everywhere.popup" timestamp="1662048136964">
+      <screen x="0" y="0" width="1280" height="752" />
+    </state>
+    <state x="306" y="118" width="672" height="638" key="search.everywhere.popup/0.0.1280.752@0.0.1280.752" timestamp="1662048136964" />
+    <state x="303" y="122" width="672" height="678" key="search.everywhere.popup/0.0.1280.800@0.0.1280.800" timestamp="1661760729803" />
+  </component>
+</project>

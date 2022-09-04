@@ -33,12 +33,7 @@ public class SchoolReport {
             }
         }
         System.out.println("最高成绩："+nums[4]);
-//        for(int i=0;i<nums.length;i++){
-//            System.out.print(nums[i]+" ");
-//
-//        }
         System.out.print("第二高成绩："+nums[3]);
-
 
     }
 }

@@ -9,17 +9,13 @@ import java.util.Scanner;
  * @date 2022/9/2 - 1:11
  */
 public class VerifyPassword {
-        //"^[A-Z]+$^[a-z]+$^[0-9]*[1-9][0-9]*$"
-        //"^(?=.*[A-Z])(?=.*[a-z])(?=.*[0-9])(?=.*[\\W_])^.{6,10}$"
-    public static boolean validatePassword(String str){
-        String s="^[A-Z]+$^[a-z]+$^[0-9]*[1-9][0-9]*$";
-//        if(str.matches(s)){
-//            return true;
-//        }
-//        return false;
-        boolean matches = str.matches(s);
-        return matches;
 
+    public static boolean validatePassword(String str){
+        String s="^(?=.*[0-9].*)(?=.*[A-Z].*)(?=.*[a-z].*).{6,10}$";
+        if(str.matches(s)){
+            return true;
+        }
+        return false;
     }
 
     public static void main(String[] args) {
